@@ -6,7 +6,7 @@ This repository includes:
 
 It aslo includes slides of my presentation.
 
-In the first jupyter notebook I introduce the basics of work with tensors in TensorFlow, including initializations of tensors, indexing, reshaping and transposing of tensors, element wise operations with tensors, linear algebra, broadcasting, etc. The first notebook also includes a couple of simple physical examples such as taking of the partial trace of a density matrix and expressing of tensor product by using broadcasting. In the first notebook I also apply TensorFlow to simulate spin echo.
+In the first jupyter notebook I introduce the basics of work with tensors in TensorFlow, including initializations of tensors, indexing, reshaping and transposing of tensors, element wise operations with tensors, linear algebra, broadcasting, etc. The first notebook also includes several simple physical examples such as taking of the partial trace of a density matrix, expressing of tensor product by using broadcasting, TensorFlow based simulation of spin echo.
 
 In the second notebook I apply automatic differentiation (AD), that is a part of TensorFlow, to find a control signal that gives a stronger revival of a signal at the end.
 
